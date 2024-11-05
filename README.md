@@ -15,10 +15,10 @@ Welcome to my GitHub profile! I'm a passionate software engineer/developer speci
 
 Here are some of the tools and technologies I frequently work with:
 
-- **Languages:** Java, Python, C++, SQL.
+- **Languages:** Java, Python, C++, SQL etc.
 - **Frameworks/Libraries:** Spring Boot, Scikit-Learn, Flask, Thymeleaf etc.
 - **Tools:** Git, OCI, etc.
-- **Databases:**  MySQL.
+- **Databases:** MySQL.
 
 ## 📈 GitHub Stats
 
@@ -37,5 +37,5 @@ Check out some of my recent repositories:
 - [Top 50 on LeetCode India](https://leetcode.com/u/xyzabcdef/)
 ## 💬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ravi-singh-2024r/))
+- [LinkedIn](https://www.linkedin.com/in/ravi-singh-2024r/)
 - [Email](mailto:iamravi2024@gmail.com)
