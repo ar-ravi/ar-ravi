@@ -1,6 +1,6 @@
 # Hi, I'm Ravi 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer/developer specializing in [your specialties]. I love building [type of applications] and working on interesting projects that challenge my skills.
+Welcome to my GitHub profile! I'm a passionate software engineer/developer specializing in Java/C++. I love working on interesting projects that challenge my skills.
 
 ## 🚀 About Me
 
