@@ -28,8 +28,8 @@ Here are some of the tools and technologies I frequently work with:
 
 Check out some of my recent repositories:
 
-- [Cinefy](https://github.com/ar-ravi/Cinefy) - A brief description of the project.
-- [Expense Monitor](https://github.com/ar-ravi/expensemonitor) - A brief description of the project.
+- [Cinefy](https://github.com/ar-ravi/Cinefy) - A project to get recommendation and keep track of movies watched.
+- [Expense Monitor](https://github.com/ar-ravi/expensemonitor) - A project to monitor expenses.
 
 ## 🥇 Achievements
 
