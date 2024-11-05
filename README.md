@@ -20,10 +20,6 @@ Here are some of the tools and technologies I frequently work with:
 - **Tools:** Git, OCI, etc.
 - **Databases:** MySQL.
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
 ## 🎯 My GitHub Repos
 
 Check out some of my recent repositories:
