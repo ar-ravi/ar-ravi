@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer/developer speci
 - 🌱 I’m currently learning SpringBoot, Java, Python and other ML libraries.
 - 👯 I’m looking to collaborate on anything interesting.
 - 🤔 I’m open to finding opportunities in Software Enginnering, ML Engineering.
-- 💬 Ask me about Java, competitive programming.
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/ravi-singh-2024r/)
+- 💬 Ask me about Java, C++, Competitive Programming.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ravi-singh-2024r/)
 
 ## 🛠️ Technologies & Tools
 
@@ -28,16 +28,14 @@ Here are some of the tools and technologies I frequently work with:
 
 Check out some of my recent repositories:
 
-- [Cinefy]((https://github.com/ar-ravi/Cinefy)) - A brief description of the project.
+- [Cinefy](https://github.com/ar-ravi/Cinefy) - A brief description of the project.
 - [Expense Monitor](https://github.com/ar-ravi/expensemonitor) - A brief description of the project.
 
 ## 🥇 Achievements
 
-- [Achievement 1](link-to-achievement-details)
-- [Achievement 2](link-to-achievement-details)
-
+- [5⭐ Codechef](https://www.codechef.com/users/s500)
+- [Top 50 on LeetCode India](https://leetcode.com/u/xyzabcdef/)
 ## 💬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/ravi-singh-2024r/))
+- [Email](mailto:iamravi2024@gmail.com)
