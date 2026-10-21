@@ -56,14 +56,14 @@ Track companies, roles, application stages, follow-ups, and role activity in a l
 
 Local LLMs that run well on everyday hardware · Retrieval that shows its sources · Useful MCP tools · Dependable backend systems · Privacy as a product feature.
 
-### 📚 Currently reading
+### 📚 What I’m reading
 
-- **AI paper:** [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) — Shunyu Yao et al. · Tool-using reasoning in language models
-- **AI paper:** [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) — Patrick Lewis et al. · Retrieval-grounded language generation
-- **Engineering blog:** [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — Anthropic
-- **Engineering blog:** [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) — Anthropic
-- **Fiction:** *Jane Eyre* — Charlotte Brontë
-- **Fiction:** *White Nights* — Fyodor Dostoevsky
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) — Shunyu Yao et al.
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) — Patrick Lewis et al.
+- [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — Anthropic
+- [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) — Anthropic
+- *Jane Eyre* — Charlotte Brontë
+- *White Nights* — Fyodor Dostoevsky
 
 ### 🧰 Tools I reach for
 
