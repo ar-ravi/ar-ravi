@@ -14,26 +14,6 @@ I like chasing latency out of payment flows—and building assistants that keep 
 
 </div>
 
----
-
-### ⚡ A few quick facts
-
-| 💳 At Amazon | 🗃️ At Oracle | 🧪 After work |
-|:---|:---|:---|
-| Cut a Tier-1 payment path from **24.7s to 8.6s** | Reduced metadata extraction time by **60%** | Building a local-first Mac assistant with **Ollama** and **MCP** |
-
-UPI fulfillment work brought order latency to **6 seconds**; Oracle data work also moved **3,800 table definitions** from ODI to YAML.
-
-### 📊 Live stats dashboard
-
-<p align="center">
-  <a href="https://github.com/ar-ravi"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=ar-ravi&show_icons=true&hide_border=true&theme=default&bg_color=ffffff&title_color=303936&text_color=59625a&icon_color=718768" alt="Ravi's live GitHub stats"></a>
-  <a href="https://leetcode.com/u/xyzabcdef/"><img width="49%" src="https://leetcard.jacoblin.cool/xyzabcdef?theme=light&colors=f7f8f5,d9ded6,303936,747b72,718768,bb704e,d4b46c,8797a2&border=0&radius=4&hide=total-solved,solved" alt="Ravi's live LeetCode rank"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ar-ravi"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ravi&layout=compact&hide_border=true&theme=default&bg_color=ffffff&title_color=303936&text_color=59625a" alt="Ravi's most-used GitHub languages"></a>
-</p>
-
 ### 🚀 Things I’m building
 
 <table>
@@ -42,26 +22,36 @@ UPI fulfillment work brought order latency to **6 seconds**; Oracle data work al
 
 #### ⌘ [SearchLocal](https://github.com/ar-ravi/SearchLocal)
 
-**Search anything on your Mac. Keep it local.**
+**A private search and assistant workspace for your Mac.**
 
-SQLite FTS5 finds relevant files; Ollama turns retrieved context into answers with citations back to the source. I’m growing it toward a broader Mac assistant with health insights and local tool access.
+Hybrid BM25 and semantic retrieval help find local files; ask an Ollama model about indexed documents and get answers grounded with source citations. The project also includes a local chat and Mac health dashboard, plus a CLI agent that can use configured MCP tools.
 
-<sub>Local LLMs · retrieval · citations · MCP</sub>
+<sub>SQLite FTS5 · embeddings · Ollama · MCP</sub>
 
 </td>
 <td width="50%" valign="top">
 
 #### ◉ [Orbit](https://github.com/ar-ravi/JobSearch-Assistant)
 
-**A job search copilot that stays on your machine.**
+**A local-first tracker and copilot for a focused job search.**
 
-A local application tracker with an Ollama copilot and read-only MCP tools, built around a workbook that remains local.
+Track companies, roles, application stages, follow-ups, and role activity in a local Excel workbook. Its Search Copilot uses Ollama with read-only MCP tools; workbook import and export keep the tracker portable.
 
-<sub>Ollama · MCP · local-first workflows</sub>
+<sub>Excel · Ollama · read-only MCP · activity timelines</sub>
 
 </td>
 </tr>
 </table>
+
+---
+
+### ⚡ A few quick facts
+
+| 💳 At Amazon | 🗃️ At Oracle | 🧪 After work |
+|:---|:---|:---|
+| Cut a Tier-1 payment path from **24.7s to 8.6s** | Reduced metadata extraction time by **60%** | Building local-first tools with **Ollama** and **MCP** |
+
+UPI fulfillment work brought order latency to **6 seconds**; Oracle data work also moved **3,800 table definitions** from ODI to YAML.
 
 ### 🧠 What I’m curious about
 
