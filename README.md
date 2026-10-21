@@ -54,7 +54,7 @@ Track companies, roles, application stages, follow-ups, and role activity in a l
 
 ### 🧠 What I’m curious about
 
-Local LLMs that run well on everyday hardware · retrieval that shows its sources · useful MCP tools · dependable backend systems · privacy as a product feature.
+Local LLMs that run well on everyday hardware · Retrieval that shows its sources · Useful MCP tools · Dependable backend systems · Privacy as a product feature.
 
 ### 📚 What I’m reading
 
