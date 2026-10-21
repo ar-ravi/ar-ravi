@@ -2,59 +2,66 @@
 
 # Ravi Singh
 
-**Software Development Engineer · Backend systems · Applied AI**
+**Backend engineer building systems that feel fast — and AI tools that stay close to home.**
 
-Building dependable backend systems and local-first AI tools.
+Amazon · Previously Oracle · India
 
-[Portfolio ↗](https://github.com/ar-ravi/ravi-portfolio) · [LinkedIn](https://www.linkedin.com/in/ravi-singh-2024r/) · [GitHub](https://github.com/ar-ravi) · [Email](mailto:iamravi2024@gmail.com)
+<a href="https://github.com/ar-ravi/ravi-portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-24292f?style=flat-square&logo=github&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/ravi-singh-2024r/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:iamravi2024@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
-**Open to exploring SDE II opportunities**
+**↗ Open to exploring SDE II opportunities**
 
 </div>
 
 ---
 
-## About
+## What I’m building
 
-I’m a software engineer at **Amazon**, building payment and fulfillment experiences. Previously, I worked at **Oracle** on data platforms and streaming workflows. Outside work, I’m exploring practical AI assistants that keep data and inference local, connect to useful tools, and show where their answers come from.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Selected impact
+### ⌘ [SearchLocal](https://github.com/ar-ravi/SearchLocal)
 
-| Focus | What changed |
-| --- | --- |
-| **Payments · Amazon** | Reduced transaction latency by **65%**, from **24.7s to 8.6s**, on Tier-1 Add Money and gift card top-up flows. |
-| **Fulfillment · Amazon** | Helped bring UPI payment order fulfillment latency to **6 seconds** with a plugin-based pipeline. |
-| **Data platforms · Oracle** | Cut metadata extraction time by **60%** and removed an Oracle Data Integrator dependency. |
-| **Replication · Oracle** | Improved workflow efficiency by **50%+** and migrated **3,800 table definitions** to YAML. |
+**A local-first assistant for your Mac.**
 
-## Projects
+Search files with SQLite FTS5, ask questions in natural language, and get Ollama answers grounded in local content—with citations back to the source.
 
-### [SearchLocal](https://github.com/ar-ravi/SearchLocal) · Local Mac assistant
+<sub>Now exploring: Mac health · local tools · MCP</sub>
 
-A local-first search agent for files on your Mac. It indexes text into **SQLite FTS5**, retrieves relevant snippets for natural-language queries, and uses **Ollama** to generate grounded answers with cited file paths and source chunks. I’m evolving it toward a broader Mac assistant with local system health and tool access.
+</td>
+<td width="50%" valign="top">
 
-**Exploring:** local LLMs · retrieval and citations · MCP · private-by-default workflows
+### ◉ [Orbit](https://github.com/ar-ravi/JobSearch-Assistant)
 
-### [Orbit — Local Job Search Assistant](https://github.com/ar-ravi/JobSearch-Assistant)
+**A private job-search copilot.**
 
-A local-first job application tracker with an **Ollama** copilot and read-only **MCP** tools. The project keeps its workbook data on the machine while making job-search information easier to explore through natural language.
+A local application tracker paired with an Ollama copilot and read-only MCP tools. Your workbook stays on your machine; natural language makes it easier to work with.
 
-## Technical interests
+<sub>Local-first · Ollama · Model Context Protocol</sub>
 
-**AI & systems**  
-Local LLMs · Ollama · Model Context Protocol (MCP) · agent and tool workflows · retrieval-augmented generation · hybrid search · grounded answers
+</td>
+</tr>
+</table>
 
-**Languages**  
-Java · C++ · TypeScript · SQL · Groovy
+## A few numbers from production
 
-**Frameworks & data**  
-Spring Boot · PySpark · Hibernate · Thymeleaf · NumPy · Pandas · scikit-learn
+| **65% faster** | **60% less time** | **3,800 definitions** |
+|:---:|:---:|:---:|
+| Tier-1 payment flow: 24.7s → 8.6s | Oracle metadata extraction | Migrated from ODI to YAML |
 
-## A little more
+Also helped reduce UPI order fulfillment latency to **6 seconds** and improved a replication workflow’s efficiency by **50%+**.
 
-B.E. in Electronics and Instrumentation Engineering · Jadavpur University  
-CodeChef 5★ · LeetCode Top 50 in India
+## How I like to build
+
+I’m interested in AI that earns trust through useful boundaries: **local inference**, **grounded retrieval**, and **tool access that is explicit and read-only where it should be**. I’m exploring Ollama, MCP, hybrid search, and citation-backed answers in my personal projects.
+
+**Backend**  Java · C++ · TypeScript · SQL · Groovy  
+**Systems**  Spring Boot · PySpark · Hibernate · SQLite · Ollama  
+**Data**  NumPy · Pandas · scikit-learn
 
 ---
 
-<sub>More detail and selected work: [Ravi Singh — Portfolio](https://github.com/ar-ravi/ravi-portfolio)</sub>
+<sub>B.E. Electronics & Instrumentation Engineering · Jadavpur University</sub>  
+<sub>[Portfolio](https://github.com/ar-ravi/ravi-portfolio) · [LinkedIn](https://www.linkedin.com/in/ravi-singh-2024r/) · [Email](mailto:iamravi2024@gmail.com)</sub>
