@@ -28,7 +28,7 @@ UPI fulfillment work brought order latency to **6 seconds**; Oracle data work al
 
 <p align="center">
   <a href="https://github.com/ar-ravi"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=ar-ravi&show_icons=true&hide_border=true&theme=default&bg_color=ffffff&title_color=303936&text_color=59625a&icon_color=718768" alt="Ravi's live GitHub stats"></a>
-  <a href="https://leetcode.com/u/xyzabcdef/"><img width="49%" src="https://leetcard.jacoblin.cool/xyzabcdef?theme=light&colors=f7f8f5,d9ded6,303936,747b72,718768,bb704e,d4b46c,8797a2&border=0&radius=4" alt="Ravi's live LeetCode stats, including rank and solved problems"></a>
+  <a href="https://leetcode.com/u/xyzabcdef/"><img width="49%" src="https://leetcard.jacoblin.cool/xyzabcdef?theme=light&colors=f7f8f5,d9ded6,303936,747b72,718768,bb704e,d4b46c,8797a2&border=0&radius=4&hide=total-solved,solved" alt="Ravi's live LeetCode rank"></a>
 </p>
 <p align="center">
   <a href="https://github.com/ar-ravi"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ravi&layout=compact&hide_border=true&theme=default&bg_color=ffffff&title_color=303936&text_color=59625a" alt="Ravi's most-used GitHub languages"></a>
