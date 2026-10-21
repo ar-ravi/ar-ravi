@@ -1,6 +1,6 @@
 <div align="center">
 
-# Howdy, I’m Ravi 👋
+# Hello, I’m Ravi 👋
 
 **Software Development Engineer · Backend systems · Local AI**
 
