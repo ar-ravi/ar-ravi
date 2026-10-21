@@ -2,11 +2,13 @@
 
 # Ravi Singh
 
-**Software Development Engineer · Backend systems · Payments · Data platforms**
+**Software Development Engineer · Backend systems · Applied AI**
 
-Building software that makes complex systems faster, safer, and easier to operate.
+Building dependable backend systems and local-first AI tools.
 
-[Portfolio ↗](https://github.com/ar-ravi/ravi-portfolio) · [LinkedIn](https://www.linkedin.com/in/ravi-singh-2024r/) · [Email](mailto:iamravi2024@gmail.com)
+[Portfolio ↗](https://github.com/ar-ravi/ravi-portfolio) · [LinkedIn](https://www.linkedin.com/in/ravi-singh-2024r/) · [GitHub](https://github.com/ar-ravi) · [Email](mailto:iamravi2024@gmail.com)
+
+**Open to exploring SDE II opportunities**
 
 </div>
 
@@ -14,23 +16,33 @@ Building software that makes complex systems faster, safer, and easier to operat
 
 ## About
 
-I’m a software engineer at **Amazon**, working on payment and fulfillment systems. Before that, I was at **Oracle**, building data workflows and platform tooling. I enjoy taking complicated systems and making them more dependable.
+I’m a software engineer at **Amazon**, building payment and fulfillment experiences. Previously, I worked at **Oracle** on data platforms and streaming workflows. Outside work, I’m exploring practical AI assistants that keep data and inference local, connect to useful tools, and show where their answers come from.
 
 ## Selected impact
 
 | Focus | What changed |
 | --- | --- |
-| **Payments · Amazon** | Reduced transaction latency from **24.7s to 8.6s** on a Tier-1 fulfillment path. |
-| **Data platforms · Oracle** | Cut metadata extraction time by **60%** with a YAML-based workflow. |
-| **Reliability · Amazon** | Built configurable safeguards and kill switches for real-time policy enforcement and rollback. |
+| **Payments · Amazon** | Reduced transaction latency by **65%**, from **24.7s to 8.6s**, on Tier-1 Add Money and gift card top-up flows. |
+| **Fulfillment · Amazon** | Helped bring UPI payment order fulfillment latency to **6 seconds** with a plugin-based pipeline. |
+| **Data platforms · Oracle** | Cut metadata extraction time by **60%** and removed an Oracle Data Integrator dependency. |
+| **Replication · Oracle** | Improved workflow efficiency by **50%+** and migrated **3,800 table definitions** to YAML. |
 
-## A project I’m exploring
+## Projects
 
-### [SearchLocal → Macmate](https://github.com/ar-ravi/SearchLocal)
+### [SearchLocal](https://github.com/ar-ravi/SearchLocal) · Local Mac assistant
 
-A local-first Mac assistant built around file search and a language model running through Ollama on the Mac. I’m exploring a private assistant workspace for everyday Mac questions and local tools.
+A local-first search agent for files on your Mac. It indexes text into **SQLite FTS5**, retrieves relevant snippets for natural-language queries, and uses **Ollama** to generate grounded answers with cited file paths and source chunks. I’m evolving it toward a broader Mac assistant with local system health and tool access.
 
-## Tools I use
+**Exploring:** local LLMs · retrieval and citations · MCP · private-by-default workflows
+
+### [Orbit — Local Job Search Assistant](https://github.com/ar-ravi/JobSearch-Assistant)
+
+A local-first job application tracker with an **Ollama** copilot and read-only **MCP** tools. The project keeps its workbook data on the machine while making job-search information easier to explore through natural language.
+
+## Technical interests
+
+**AI & systems**  
+Local LLMs · Ollama · Model Context Protocol (MCP) · agent and tool workflows · retrieval-augmented generation · hybrid search · grounded answers
 
 **Languages**  
 Java · C++ · TypeScript · SQL · Groovy
