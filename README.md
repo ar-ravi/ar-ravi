@@ -51,7 +51,6 @@ Track companies, roles, application stages, follow-ups, and role activity in a l
 |:---|:---|:---|
 | Cut a Tier-1 payment path from **24.7s to 8.6s** | Reduced metadata extraction time by **60%** | Building local-first tools with **Ollama** and **MCP** |
 
-UPI fulfillment work brought order latency to **6 seconds**; Oracle data work also moved **3,800 table definitions** from ODI to YAML.
 
 ### 🧠 What I’m curious about
 
