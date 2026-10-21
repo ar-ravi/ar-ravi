@@ -56,14 +56,14 @@ Track companies, roles, application stages, follow-ups, and role activity in a l
 
 Local LLMs that run well on everyday hardware · Retrieval that shows its sources · Useful MCP tools · Dependable backend systems · Privacy as a product feature.
 
-### 📚 What I’m reading
+### 📚 Currently reading
 
-A reading list around the things I’m building and the systems I work on:
-
-- [Simon Willison’s Weblog](https://simonwillison.net/) — hands-on LLMs, local models, and AI tools
-- [Chip Huyen’s blog](https://huyenchip.com/blog/) — AI engineering and taking models into production
-- [Martin Fowler](https://martinfowler.com/) — software design and architecture
-- [Amazon Builders’ Library](https://aws.amazon.com/builders-library/) — reliability and distributed systems
+- **AI paper:** [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) — Shunyu Yao et al. · Tool-using reasoning in language models
+- **AI paper:** [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) — Patrick Lewis et al. · Retrieval-grounded language generation
+- **Engineering blog:** [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — Anthropic
+- **Engineering blog:** [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) — Anthropic
+- **Fiction:** *Jane Eyre* — Charlotte Brontë
+- **Fiction:** *White Nights* — Fyodor Dostoevsky
 
 ### 🧰 Tools I reach for
 
