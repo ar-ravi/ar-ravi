@@ -47,15 +47,10 @@ Track companies, roles, application stages, follow-ups, and role activity in a l
 
 ### 💼 Experience
 
-**Software Development Engineer · Amazon** · *Apr 2025–Present*
+**Software Development Engineer · Amazon** · 
 
-- Cut a Tier-1 payment path from **24.7s to 8.6s** and built safeguards for reliable rollout and rollback.
-- Led payment and authentication integrations across Amazon NOW flows.
 
-**Software Developer · Oracle** · *May 2023–Apr 2025*
-
-- Reduced metadata extraction time by **60%** while removing an Oracle Data Integrator dependency.
-- Improved data replication workflows with PySpark APIs and automated configuration updates.
+**Software Developer · Oracle** · 
 
 
 ### 🧠 What I’m curious about
